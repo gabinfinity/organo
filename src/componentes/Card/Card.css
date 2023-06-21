@@ -1,0 +1,72 @@
+.card {
+    height: 272px;
+    width: 262px;
+    border-radius: 10px;
+
+    background: #FFFFFF;
+
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.08);
+    border-radius: 10px;
+
+    position: relative;
+
+}
+
+.cardr1 {
+
+    height: 91.90325927734375px;
+    width: 262px;
+
+    border-radius: 10px 10px 0px 0px;
+}
+
+.card img {
+    height: 121.19px;
+    width: 120px;
+    left: 71px;
+    position: absolute;
+    top: 40px;
+
+
+
+    border-radius: 100px;
+
+}
+
+.card h1 {
+    position: absolute;
+    left: 4.58%;
+    right: 4.96%;
+    top: 66.09%;
+    bottom: 25.74%;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    align-items: center;
+    text-align: center;
+
+    color: #6278F7;
+
+
+}
+
+.card p {
+    position: absolute;
+    left: 11.45%;
+    right: 12.21%;
+    top: 77.94%;
+    bottom: 9.93%;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    align-items: center;
+    text-align: center;
+
+    color: #212121;
+}
